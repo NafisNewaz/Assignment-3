@@ -8,7 +8,7 @@ function kilometerToMeter(kiloMeter)
     }
     else
     {
-    return "Distace can't be neagative!" /** show message when user give negative value as a input */
+    return "Distance can't be neagative!" /** show message when user give negative value as a input */
     }
   }         
  
@@ -31,7 +31,7 @@ function kilometerToMeter(kiloMeter)
    }
    else
    {
-    return "Budget canot be negative!" /** show this message when user put negative input */
+    return "Budget cannot be negative!" /** show this message when user put negative input */
    }
  }
 
